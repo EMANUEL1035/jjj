@@ -1,0 +1,18 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor{
+    width: 30%;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.contenedor img{
+    width: 300px;
+    padding-bottom: 30px;
+}
